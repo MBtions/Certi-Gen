@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.SUPERCILEX.poi-android:proguard:3.17@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7342a99a1a97d646b8468790846dac3/jetified-proguard-3.17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7342a99a1a97d646b8468790846dac3/jetified-proguard-3.17/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7342a99a1a97d646b8468790846dac3/jetified-proguard-3.17/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
